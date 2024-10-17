@@ -683,7 +683,7 @@ public class GameStateHandler {
     }
 
     public boolean inGarden() {
-        boolean isInGarden = location != Location.TELEPORTING && location == Location.GARDEN;
+        boolean isInGarden = location != Location.TELEPORTING && location == Location.PRIVATE_ISLAND;
         if (isInGarden)
             lastTimeInGarden = System.currentTimeMillis();
         return isInGarden;
