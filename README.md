@@ -19,13 +19,17 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">FarmHelper V2</h3>
+<h3 align="center">FarmHelper V2 Fakepixel</h3>
   <p align="center">
     <a href="https://discord.gg/6mSHC2Xd9y">Report Bug</a>
     ·
     <a href="https://discord.gg/6mSHC2Xd9y">Request Feature</a>
   </p>
 </div>
+
+## Fakepixel Compatibility
+
+This mod has been modified for fakepixel compatibility, it will get better over time. For any questions dm in discord **@dbsp**
 
 ## About The Project
 
